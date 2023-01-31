@@ -1,0 +1,7 @@
+baseURL = 'https://ilisim.github.io/'
+languageCode = 'en-us'
+title = 'Mano naujas puslapis'
+theme = "hello-friend"
+cover = "image.PNG"
+useRelativeCover = true
+
